@@ -1,1 +1,1 @@
-# Cipher_Xor
+Xor cipher implementation
